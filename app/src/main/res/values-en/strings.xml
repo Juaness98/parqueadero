@@ -16,4 +16,6 @@
     <string name="nom">Name</string>
     <string name="Inicio">start</string>
     <string name="Reservas">Reservations</string>
+    <string name="Acerca_de">About</string>
+    <string name="hello_blank_fragment">Author</string>
 </resources>

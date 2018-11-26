@@ -35,7 +35,7 @@ public class ReservasFragment extends Fragment {
 
     ////////////////////////////////////////////////////////////
 
-    private String HOST = "http://192.168.0.12/parqueadero";
+    private String HOST = "http://192.168.137.35/parqueadero";
     ListView parqueadero;
     ListView parqueadero2;
 

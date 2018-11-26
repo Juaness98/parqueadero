@@ -22,4 +22,8 @@
     <string name="Reservas">Reservas</string>
     <string name="navigation_drawer_open">Abrir el cajon de navegacion</string>
     <string name="navigation_drawer_close">Cerrar el cajon de navegacion</string>
+    <string name="Acerca_de">Acerca de</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Autor:</string>
 </resources>

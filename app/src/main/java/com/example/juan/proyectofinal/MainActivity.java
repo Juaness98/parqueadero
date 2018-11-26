@@ -96,6 +96,8 @@ public class MainActivity extends AppCompatActivity
             frac.beginTransaction().replace(R.id.contenedor, new InicioFragment()).commit();
         }else if(id == R.id.nav_camera) {
             frac.beginTransaction().replace(R.id.contenedor, new ReservasFragment()).commit();
+        }else if(id == R.id.nav_share) {
+            frac.beginTransaction().replace(R.id.contenedor, new Acerca_de()).commit();
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);

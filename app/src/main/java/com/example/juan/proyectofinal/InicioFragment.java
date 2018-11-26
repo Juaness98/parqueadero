@@ -37,7 +37,7 @@ public class InicioFragment extends Fragment {
     EditText lugar, horario, nombres, modelo;
     Button guardar;
     String si;
-    private String HOST = "http://192.168.0.12/parqueadero";
+    private String HOST = "http://192.168.137.35/parqueadero";
 
     View view;
 
