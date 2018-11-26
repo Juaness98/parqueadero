@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Parqueadero</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titulo">Reserva tu puesto seguro</string>
+    <string name="lugar">Lugar</string>
+
+    <string-array name="lugares">
+        <item>MARIANA</item>
+        <item>CESMAG</item>
+    </string-array>
+    <string name="action_settings">Configuracion</string>
+    <string name="nombres">Nombres</string>
+    <string name="reservar">Reservar</string>
+    <string name="reservas_actuales">Reservas actuales</string>
+    <string name="parMariana">Parqueadero Mariana</string>
+    <string name="parUdenar">Parqueadero Udenar</string>
+    <string name="nom">Nombre</string>
+    <string name="horario">Horario</string>
+    <string name="modelo">Modelo</string>
+    <string name="Inicio">Inicio</string>
+    <string name="Reservas">Reservas</string>
+    <string name="navigation_drawer_open">Abrir el cajon de navegacion</string>
+    <string name="navigation_drawer_close">Cerrar el cajon de navegacion</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parking</string>
+    <string name="action_settings">Settings</string>
+    <string name="lugar">Place</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="titulo">Reserve your safe place</string>
+    <string name="horario">Schedule</string>
+    <string name="nombres">Name</string>
+    <string name="modelo">Model</string>
+    <string name="reservar">Reserve</string>
+    <string name="reservas_actuales">Current reservations</string>
+    <string name="parMariana">Parking Mariana</string>
+    <string name="parUdenar">Parking Udenar</string>
+    <string name="nom">Name</string>
+    <string name="Inicio">start</string>
+    <string name="Reservas">Reservations</string>
+</resources>
